@@ -4,5 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+這裡的一切言說, 只是些泥上指爪, 我僅是隨意說說, 看官也看罷便忘...
+```
+夫言非吹也。言者有言，其所言者特未定也。果有言邪？其未嘗有言邪？其以爲異於鷇音，亦有辯乎？其無辯乎？
+```
  

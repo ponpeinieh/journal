@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "契子"
-date:   2017-03-21
+date:   2017-03-20
 categories: github
 ---
 
@@ -41,5 +41,7 @@ bundle exec jekyll serve
 ```
 
 接下來可以用brower打開http://localhost:4000
+
+:sweat_smile:
 
 
