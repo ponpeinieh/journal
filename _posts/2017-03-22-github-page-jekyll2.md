@@ -69,15 +69,16 @@ bundle install
 1. 更新_config.yml以啟用該theme:
 ```
 theme: jekyll-theme-awesome
+```
 1. 重新build site:
 ```
 bundle exec jekyll serve
 ```
 
-最後, 將project中的檔案deploy到GitHub page去, 注意還有一個設定要改變: 在Gemfile中更新:
-移除`gem "jekyll"`
-然後加上`gem 'github-pages'`
-執行 `bundle update github-pages`
+最後, 將project中的檔案deploy到GitHub page去, 注意還有一個設定要改變: 在Gemfile中做以下兩個更新:
+-移除`gem "jekyll"`
+-加上`gem 'github-pages'`
+最後執行 `bundle update github-pages`
 
 
 :sweat_smile:
