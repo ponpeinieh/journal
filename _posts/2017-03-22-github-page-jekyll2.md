@@ -76,8 +76,8 @@ bundle exec jekyll serve
 ```
 
 最後, 將project中的檔案deploy到GitHub page去, 注意還有一個設定要改變: 在Gemfile中做以下兩個更新:
--移除`gem "jekyll"`
--加上`gem 'github-pages'`
+- 移除`gem "jekyll"`
+- 加上`gem 'github-pages'`
 最後執行 `bundle update github-pages`
 
 
