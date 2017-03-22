@@ -4,12 +4,12 @@ title:  "第一次使用Jekyll"
 date:   2017-03-20
 categories: github
 ---
-上一篇的[契子]({{site.baseurl}}{% post_url 2017-03-21-github-page-jekyll %})一文中, 提及的Jekyll這套blog網頁產生工具, 這裡進一步來其中的玄妙
+上一篇的[契子]({{site.baseurl}}{% post_url 2017-03-21-github-page-jekyll %})一文中, 提及的Jekyll這套blog網頁產生工具, 這裡進一步來看其中的玄妙
 
-## _config.yml
+## Jekyll專案設定檔
 
-`_config.yml`是Jekyll的主要設定檔, 預設內容如下:
-{% highlight yaml linenos %}
+`_config.yml`是每一個Jekyll project的主要設定檔, 預設內容如下:
+{% highlight yaml %}
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -22,9 +22,9 @@ categories: github
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# you will see them accessed via {% raw %} {{ site.title }}, {{ site.email }} {% endraw %}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# in the templates via {% raw %}{{ site.myvariable }} {% endraw %}.
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -44,20 +44,36 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
 {% endhighlight %}
 
-其中比較重要的設定:
-- `theme: minima` : `minima`是jekyll的預設主題, 它安裝的路徑可以利用`bundle show minima`指令取得. 
-檢視minima安裝路徑下的`_layouts/`目錄, 可以看到它包含了四個定義好的layouts: `default, home, page, post`. 
+其中比較重要的設定是`theme` 
+
+## Jekyll 主題（theme)
+
+`minima`是Jekyll的預設主題, 它安裝的路徑可以利用`bundle show minima`指令取得. 
+檢視minima安裝路徑下的`_layouts/`目錄, 可以看到它包含了四個預設的layouts: `default, home, page, post`. 
 (原本我在GitHub page中選擇的theme是`jekyll-theme-midnight`, 它下面的layout只有default一項. 為了方便, 還是繼續用minima)
-default layout是最基本的layout, 其他三個layouts都是架構在這個上面, 然後做一些改變. 
-home用在入口網頁index.md, page用在一般的html檔案(利入about.md), post則用在所寫的post上.
-Jekyll產生出來的網頁, footer的部份, 預設設計將blog title重複顯示, 因為我的title用的是一句詩詞, 
-感覺過於重複與顯眼, 所以我改寫了footer.html(位在minima安裝路徑下的`_includes`目錄下)
+
+- default layout是最基本的layout, 其他三個layouts都是架構在這個上面, 然後做一些改變
+- home用在入口網頁上, 如index.md
+- page用在一般的html page, 例如about.md
+- post則用在所撰寫的post上
+
+## 客製化site內容或template
+
+Jekyll產生器所產生的網頁, 關於每一頁底的footer的部份, 預設設計將blog title重複顯示, 因為我的title用的是一句詩詞, 
+感覺過於重複與顯眼, 所以想改變其內容. 如何客製化這個footer呢? 可以將相關的檔案(footer.html, 位在minima安裝路徑下的`_includes`目錄下)
+複製到project的目錄下, 一樣放在_includes目錄中, 然後隨你要的方式去改變其內容. 
 
 曾經嘗試要將theme換成`jekyll-theme-midnight`, 但是如上段文章所說, 因為這個theme只有一個default layout, 
-所以除非將minima中的home,page, post等layouts, 複製到我的blog site檔案根目錄, 否則會有錯誤. 所以避免麻煩,
-我還是沿用minima theme. 不過這裡也提一下更換theme的幾個步驟:
+所以除非將minima中的home,page, post等layouts, 複製到我的blog site檔案根目錄, 
+否則index.md, about.md等檔案會因為找不到相關的layouts而有錯誤. 可能還有其他的include檔案也要複製才行. 因此為了避免麻煩,
+我還是沿用minima theme. 
+
+## 更換Jekyll theme
+
+不過這裡提一下若要更換theme, 可採以下步驟:
 1. 將新的theme加入到Gemfile檔案:
 ```
 gem "jekyll-theme-awesome"
@@ -75,12 +91,25 @@ theme: jekyll-theme-awesome
 bundle exec jekyll serve
 ```
 
-最後, 將project中的檔案deploy到GitHub page去, 注意還有一個設定要改變: 在Gemfile中做以下兩個更新:
+將project中的檔案deploy到GitHub page去, 注意還有一個設定要改變: 在Gemfile中做以下兩個更新:
 - 移除`gem "jekyll"`
 - 加上`gem 'github-pages'`
-最後執行 `bundle update github-pages`
 
 
-:sweat_smile:
+存檔後, 執行 `bundle update github-pages`
+
+## 使用emoji 
+
+Jekyll page中可以使用Emoji圖示, 設定如下:
+1. 在_config.yml設定檔中加入
+```
+gems:
+  - jemoji
+```
+1. Gemfil中加入:
+```
+gem 'jemoji'
+```
+1. emoji的格式為`:<code>:`, 例如 :sweat_smile: 請參考[emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 
