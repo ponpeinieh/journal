@@ -4,11 +4,11 @@ title:  "第一次使用Jekyll"
 date:   2017-03-20
 categories: github
 ---
-上一篇的[契子]({{site.baseurl}}{% post_url 2017-03-21-github-page-jekyll)一文中, 提及的Jekyll這套blog網頁產生工具, 這裡進一步來其中的玄妙
+上一篇的[契子]({{site.baseurl}}{% post_url 2017-03-21-github-page-jekyll %})一文中, 提及的Jekyll這套blog網頁產生工具, 這裡進一步來其中的玄妙
 
-## _config.yaml
+## _config.yml
 
-`_config.yaml`是Jekyll的主要設定檔, 預設內容如下:
+`_config.yml`是Jekyll的主要設定檔, 預設內容如下:
 {% highlight yaml linenos %}
 # Welcome to Jekyll!
 #
