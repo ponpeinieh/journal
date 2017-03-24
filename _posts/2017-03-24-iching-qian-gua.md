@@ -1,4 +1,8 @@
 ---
+layout: post
+title:  "乾卦-見群龍無首吉"
+date:   2017-03-24
+categories: iching
 ---
 上週起開始在youtube上收看曾仕強教授的易經的節目. 第一個乾卦, 爻辭為:
 ```
