@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bette Midler - From a distance"
-date:   2017-04-01
+date:   2017-04-02
 categories: song
 ---
 
@@ -41,7 +41,9 @@ categories: song
 
 過去自己有一個`十年哲學`, 是自己的一些體悟: 從現在回想十年前的得失, 一切都已經雲淡風輕或甚至遺忘的沒留下什麼痕跡, 那麼這個時候, 假使有些什麼得失, 又有什麼值得放在心上的呢? 因為十年後的我, 也同樣將不會記得今日發生過的什麼事.
 
-記得Nasa太空船Voyager 1, 在1977年升空, 到1990年Valentine's Day時, 在天文學家Carl Sagan的建議下拍下回顧地球的歷史性照片, 因為當時Voyager 1 距離地球距離太遠(約60億公里), 地球的倩影只剩下一個非常微弱的小藍點, 所以稱做[Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). 1994年[Sagan在Cornell大學的講演](https://www.youtube.com/watch?v=W_nB5WvZz2g), 他說到這個[pale blue dot影像](https://en.wikipedia.org/wiki/Pale_Blue_Dot#/media/File:PaleBlueDot.jpg)背後對他的意義. 意義大致上是說: 這個dot代表home, 人類過往今來都只在這個小點上. 好人,壞人,英雄,懦夫都在這個像一點塵埃之地. 這個影像讓人類之間的仇恨, 殺戮, 人性的自大, 顯得再愚蠢不過. 不若以憐憫, 仁慈的心對待彼此, 珍惜這個我們僅僅尚且還算熟知的一個小點.
+記得Nasa太空船Voyager 1, 在1977年升空, 到1990年Valentine's Day時, 在天文學家Carl Sagan的建議下拍下回顧地球的歷史性照片, 因為當時Voyager 1 距離地球已經太遠(約60億公里), 地球的倩影只剩下一個非常微弱的小藍點, 所以稱做[Pale Blue Dot](https://en.wikipedia.org/wiki/Pale_Blue_Dot). 
+
+1994年[Sagan在Cornell大學的講演](https://www.youtube.com/watch?v=W_nB5WvZz2g), 說到這個[pale blue dot影像](https://en.wikipedia.org/wiki/Pale_Blue_Dot#/media/File:PaleBlueDot.jpg)背後對他的意義. 大致上是說: 這個dot代表home, 人類過往今來都只在這個小點上. 好人,壞人,英雄,懦夫都在這個像一點塵埃之地. 這個影像讓人類之間的仇恨, 殺戮, 人性的自大, 顯得再愚蠢不過. 不若以憐憫, 仁慈的心對待彼此, 珍惜這個我們僅僅尚且還算熟知的一個小點.
 
 From a disance, 世界看起來和諧安靜許多, 人則顯得渺小, 希望如同歌詞中所祝願的, 如同Sagan所說的, 這個blue dot下的人類能夠多一些慈悲, 少一分敵對.
 
