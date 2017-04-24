@@ -19,20 +19,32 @@ categories: thought
 對內針對FED美聯儲的不受美國國會控制, 扭曲整個貨幣系統的作法也非常厭惡. 
 
 4/21最新的一集[節目](https://www.youtube.com/watch?v=DQwW4DukHlQ), 是關於`Politicans keep fabricating fake rights out of thin air`
-那就是`right to never be offended`. 說到美國日益明顯的free speech被限制或壓抑. 節目中提及到目前美國大學校園裡面這方面的發展, 尤其顯著. 
-追究原因, 及可能是學生在成長時長期受到過度的保護, 已經無法接受那些與自身信仰相衝突的思想或言論. 抑或是這些年輕一輩的學生們, 
-成長在恐怖攻擊, 自身安全威脅之下, 自己願意放棄一些自由(如言論自由, 隱私權)來換取人身上面的安全. 
+, 提到政客們開始鼓吹人民可以有`完全不被冒犯的權利(right to never be offended)`. 
+
+說到美國free speech被限制或壓抑的情況日益嚴重. 節目中提及到目前美國大學校園裡面, 這方面的發展尤其顯著. 
+追究原因, 可能是學生在成長時長期受到過度的保護, 已經無法接受那些與自身信仰相衝突的思想或言論. 抑或是這些年輕一輩的學生們, 
+成長在恐怖攻擊, 自身安全威脅之下, 願意放棄自身的一些自由(如言論自由, 隱私權)來換取人身上面的安全. 
 可是演變出即使是善意但是逆耳的言論, 只要有少數人感覺到被冒犯, 就不允許別人做出這些思想的發聲. Dr. Paul 說道:
 
 ```
-The 1st amendment, the founders clearly believed in it ... they didn't give the 1st amendment, so you and I can talk about the weather, 
-they gave it to us because they want us to criticize the government and not to be put to prison for... Just look at what they do to the whistleblowers...
+The first amendment, the founders clearly believed in it ... 
+they didn't give the first amendment, so you and I can talk about the weather, 
+they gave it to us because they want us to criticize the government 
+and not to be put to prison for... 
+Just look at what they do to the whistleblowers...
 ```
 
-Whistle-blower(舉報人)這個名詞是說那種揭發私人或公家組織中非法,違反倫理等活動的人. 美國過去幾年來, 審判並且判刑許多位的舉報人. 
+Whistle-blower(舉報人)這個代表那些揭發私人或公家組織中那些非法的或違反倫理的活動的人. 美國過去幾年來, 審判並且判刑許多位的舉報人. 
 前幾日Ron Paul[節目](https://www.youtube.com/watch?v=TGvgUl7geeM), 也請來了2013年揭發美國CIA使用torture(酷刑)的前CIA人員
 [John Kiriakou](https://en.wikipedia.org/wiki/John_Kiriakou). 後來他也因為洩漏CIA情資而被起訴然後坐牢. 
-他在賓州一間監獄Loretto服刑, 期間還持續的發表一些文章, 其中包括了一封給[Edward Snowdon](https://en.wikipedia.org/wiki/Edward_Snowden)的[公開信](https://shadowproof.com/2013/07/02/cia-whistleblower-john-kiriakous-open-letter-to-edward-snowden/), 提醒他最要小心的就是FBI使用的詐術, 利用人的愛國心來陷害人.
+
+Kiriakou說話顯得十分平和與坦承, 說起他的遭遇也沒有顯現出任何的怨天尤人. 他在賓州一間監獄Loretto服刑. 
+期間還持續的寫了一些文章, 描述監獄的現況, 然後透過一些管道發表出來. 
+其中包括了一封給[Edward Snowdon](https://en.wikipedia.org/wiki/Edward_Snowden)的
+[公開信](https://shadowproof.com/2013/07/02/cia-whistleblower-john-kiriakous-open-letter-to-edward-snowden/), 
+提醒他最要小心的就是FBI使用的詐術, 利用人的愛國心來陷害人.
+
+在獄中待了約兩年後出獄, 換在家中軟禁服刑(house arrest). 他有一篇[文章](https://www.commondreams.org/views/2015/05/05/letter-loretto)描述他出獄後每天到中途所(halfway house)報到的一些狀況. 讀來也是生動有趣.
 
 美國說真話的媒體越來越稀少, shadowproof.com網站多少還是比較公正及認真的報導或評論事情, 月初在敘利亞發生的生化武器攻擊平民的事件, 死了70多人, 
 美國政府與主流媒體都認為是敘利亞政府Assad幹下的暴行. 而川普更是下令發射了Tomahawk飛彈攻擊敘利亞政府軍機場. 
