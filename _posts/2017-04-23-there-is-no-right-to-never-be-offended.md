@@ -41,18 +41,18 @@ Whistle-blower(舉報人)這個代表那些揭發私人或公家組織中那些�
 Kiriakou說話顯得十分平和與坦承, 說起他的遭遇也沒有顯現出任何的怨天尤人. 他在賓州一間監獄Loretto服刑. 
 期間還持續的寫了一些文章, 描述監獄的現況, 然後透過一些管道發表出來. 
 其中包括了一封給[Edward Snowdon](https://en.wikipedia.org/wiki/Edward_Snowden)的
-[公開信](https://shadowproof.com/2013/07/02/cia-whistleblower-john-kiriakous-open-letter-to-edward-snowden/), 
-提醒他最要小心的就是FBI使用的詐術, 利用人的愛國心來陷害人.
+[公開信](https://shadowproof.com/2013/07/02/cia-whistleblower-john-kiriakous-open-letter-to-edward-snowden/)
+刊登在shadowproof.com網站, 提醒他最要小心的就是FBI使用的詐術, 利用人的愛國心來陷害人.
 
 在獄中待了約兩年後出獄, 換在家中軟禁服刑(house arrest). 他有一篇[文章](https://www.commondreams.org/views/2015/05/05/letter-loretto)描述他出獄後每天到中途所(halfway house)報到的一些狀況. 讀來也是生動有趣.
 
 美國說真話的媒體越來越稀少, shadowproof.com網站多少還是比較公正及認真的報導或評論事情, 月初在敘利亞發生的生化武器攻擊平民的事件, 死了70多人, 
-美國政府與主流媒體都認為是敘利亞政府Assad幹下的暴行. 而川普更是下令發射了Tomahawk飛彈攻擊敘利亞政府軍機場. 
-shadowproof.com也有一篇文章[分析](https://shadowproof.com/2017/04/12/questioning-narrative-around-alleged-chemical-attack-syria-not-fringe/)
+美國政府與主流媒體都認為是敘利亞Assad政府幹下的暴行. 而川普更是下令發射了Tomahawk飛彈攻擊敘利亞政府軍機場. 
+shadowproof.com有一篇文章[分析](https://shadowproof.com/2017/04/12/questioning-narrative-around-alleged-chemical-attack-syria-not-fringe/)
 , 提出非常多跡象顯示, Assad不是主凶. 但是重點是在沒有任何證據公佈在世人眼前, 美國政府就可以私自下令攻打別的國家. 
 美國政府想幹麻就幹麻. 然後歐洲一些國家跟著做啦啦隊. 
 
-倒楣的敘利亞人民, 成為這世紀最可憐的民族. 只能怨歎自己沒有像北韓一樣, 擁有可以至少讓美國顧忌的武器力量. 成為俄羅斯與美國在能源角力抗衡之下的犧牲者.
+倒楣的敘利亞人民, 成為這世紀最可憐的民族. 只能怨歎自己沒有像北韓一樣, 擁有可以至少讓美國顧忌的武器力量. 成為俄羅斯與美國在能源利益角力抗衡之下的犧牲者.
 
 
 
