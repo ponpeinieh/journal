@@ -4,6 +4,7 @@ title:  "關老爺叫我捐錢"
 date:   2017-04-27
 categories: thought
 ---
+
 今天在google hangout上跟好友FS聊了一個多鐘頭. 知道這樣的對話內容機會不太多, 也就擷取出來留作個回憶紀錄吧.
 
 ```
